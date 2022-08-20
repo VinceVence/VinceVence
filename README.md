@@ -20,7 +20,7 @@
 
 <h1 align="center">
   “How do lions greet other animals? Pleased to eat you!”
-  <img src="https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s" width="30px"/>
+  <img src="https://media0.giphy.com/media/Az5guv8GZwaLskfWli/giphy.gif?cid=ecf05e47kr5skfrbo5s19irk6ttubhim7mxrjtlkdbtf4aij&rid=giphy.gif&ct=s" width="70px"/>
 </h1>
 
 <div align="center">
